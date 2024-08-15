@@ -41,7 +41,7 @@
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-etherscan": "^2.1.2",
     "decentraland-contract-plugins": "^2.2.0",
-    "ethers": "^5.0.0"
+    "ethers": "^6.0.0"
   },
   "repository": {
     "type": "git",
